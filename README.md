@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Rehman
 
-##🎓 BS Data Science Student | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
+### 🎓 BS Data Science Student | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
 
 ### Welcome to my GitHub! 🚀
 
