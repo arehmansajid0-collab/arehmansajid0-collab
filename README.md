@@ -1,16 +1,26 @@
 # 👋 Hi, I'm Abdul Rehman
 
 ### 🎓 BS Data Science Student | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
+Email Me 👉 ✉️ **arehmansajid0@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-### Welcome to my GitHub! 🚀
+- 🔭 **I’m currently working on:** Desktop Video Downloading Application Using Pythonn
+- 🌱 **I’m currently learning:** ML and Relational Databases
+- 👯 **I’m looking to collaborate on:** An AI powered website that can predict House Prices all across Pakistan 
+- 🤔 **I’m looking for help with:** Aa web Developer that can link my model with a Modern site and make it public
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** arehmansajid0@gmail.com
+- 😄 **Pronouns:** Abdul Rehman
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-I'm a **Data Science student** passionate about Python, Machine Learning,
-Data Analysis, and building practical projects that solve real-world problems.
-
-AI / ML Engineering
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arehman.sajid) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arehman_66) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arehmansajid0@gmail.com) 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
