@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm Abdul Rehman
 
-<!--
-**arehmansajid0-collab/arehmansajid0-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Data Science Student
+🤖 Machine Learning Enthusiast
+🐍 Python Developer
+📊 Data Science | AI | ML
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I'm a Data Science student passionate about building
+Machine Learning and Python projects.
+
+🔭 Currently working on ML projects
+🌱 Learning Deep Learning & AI
+💻 Building real-world applications
+🎯 Aspiring Data Scientist / ML Engineer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+
+Python • SQL • NumPy • Pandas
+Matplotlib • Scikit-learn
+MySQL • Git • GitHub
+YOLO • Computer Vision
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 Featured Projects
+
+🏠 House Price Prediction
+✋ Hand Gesture Recognition
+🕷️ Spider Noir Video Downloader
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Contact
+
+📧 yourgmail@gmail.com
