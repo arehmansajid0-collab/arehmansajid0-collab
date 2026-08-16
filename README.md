@@ -7,48 +7,7 @@ Welcome to my GitHub! 🚀
 I'm a **Data Science student** passionate about Python, Machine Learning,
 Data Analysis, and building practical projects that solve real-world problems.
 
----
 
-## 🚀 About Me
-
-- 🎓 BS Data Science Student
-- 🐍 Learning and building with Python
-- 🤖 Interested in Machine Learning & AI
-- 📊 Interested in Data Analysis and Data Science
-- 💻 Building practical projects to improve my skills
-- 🌱 Currently learning advanced Machine Learning concepts
-- 🎯 Goal: Become a skilled Data Scientist / ML Engineer
-
----
-
-## 🛠️ Skills & Technologies
-
-### Programming
-🐍 Python  
-💻 SQL
-
-### Data Science
-📊 Pandas  
-🔢 NumPy  
-📈 Matplotlib  
-📉 Seaborn
-
-### Machine Learning
-🤖 Scikit-learn  
-📐 Regression  
-🎯 Classification  
-🌳 Decision Trees  
-🌲 Random Forest  
-⚡ Gradient Descent  
-🧠 Neural Networks
-
-### Tools
-💻 Git & GitHub  
-📓 Jupyter Notebook  
-☁️ Google Colab  
-🗄️ MySQL
-
----
 
 ## 📌 Featured Projects
 
@@ -72,21 +31,29 @@ hand gestures.
 A desktop video downloader application with a custom Spider Noir inspired
 interface.
 
-**Technologies:** Python • CustomTkinter • PyQt6 • yt-dlp
-
----
-
-## 📚 Currently Learning
-
-```text
-Python
-   ↓
-Data Analysis
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-Computer Vision
    ↓
 AI / ML Engineering
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arehman.sajid) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arehman_66) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arehmansajid0@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arehmansajid0-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=arehmansajid0-collab&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arehmansajid0-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arehmansajid0-collab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arehmansajid0-collab&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=arehmansajid0-collab&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
