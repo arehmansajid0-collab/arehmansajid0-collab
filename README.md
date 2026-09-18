@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Abdul Rehman
 
-### 🎓 BS Data Science Student | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
+### BS Data Science Student | Machine Learning Enthusiast | Python Developer
 Email Me 👉 ✉️ **arehmansajid0@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Desktop Video Downloading Application Using Pythonn
-- 🌱 **I’m currently learning:** ML and Relational Databases
-- 👯 **I’m looking to collaborate on:** An AI powered website that can predict House Prices all across Pakistan 
-- 🤔 **I’m looking for help with:** Aa web Developer that can link my model with a Modern site and make it public
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** arehmansajid0@gmail.com
-- 😄 **Pronouns:** Abdul Rehman
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-  **I’m currently working on:** Desktop Video Downloading Application Using Pythonn
+-  **I’m currently learning:** ML and Relational Databases
+-  **I’m looking to collaborate on:** An AI powered website that can predict House Prices all across Pakistan 
+-  **I’m looking for help with:** Aa web Developer that can link my model with a Modern site and make it public
+-  **Ask me about:** Collaboration, Tech Support
+-  **How to reach me:** arehmansajid0@gmail.com
+-  **Pronouns:** Abdul Rehman
+-  **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
